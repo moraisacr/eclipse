@@ -16,7 +16,7 @@ public static void main (String args[]){
 	soma = num1 + num2;
 	//Mostrar na tela
 	System.out.println("Soma:" + soma);
-	
+	//commit pelo eclipse
 	}
 
 }
